@@ -6,6 +6,12 @@ A modern and responsive agency landing page built using **HTML5** and **Tailwind
 
 ## Live Demo - https://wasim2934.github.io/CreativeHub-Modern-Agency-Landing-Page
 
+---
+
+## Project Preview
+
+![](./ss.png)
+
 
 ## 📌 Project Overview
 
